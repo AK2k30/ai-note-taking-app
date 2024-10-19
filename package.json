@@ -10,7 +10,7 @@
     "postinstall": "prisma generate"
   },
   "dependencies": {
-    "@clerk/nextjs": "^4.29.3",
+    "@clerk/nextjs": "^5.7.5",
     "@clerk/themes": "^1.7.9",
     "@hookform/resolvers": "^3.3.3",
     "@pinecone-database/pinecone": "^1.1.2",
@@ -23,7 +23,7 @@
     "clsx": "^2.1.0",
     "eslint-config-prettier": "^9.1.0",
     "lucide-react": "^0.303.0",
-    "next": "14.0.4",
+    "next": "14.2.15",
     "next-themes": "^0.2.1",
     "openai": "^4.24.1",
     "prettier": "^3.1.1",
